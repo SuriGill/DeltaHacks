@@ -1,7 +1,7 @@
 {
-  "name": "grunt-html5-boilerplate",
+  "name": "DeltaHacks Website",
   "version": "0.0.0",
-  "description": "Grunt HTML5 Boilerplate is an HTML5 boilerplate with added Grunt task managment functionality. It gives you an easy start to any web project by including the popular Bootstrap Initializr and also adds the workflow power of Grunt to output your code minified and easily organized.",
+  "description": "DeltaHacks is the best hackathon ever :3",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt-contrib-concat": "^0.5.0",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonyspiro/grunt-html5-boilerplate"
+    "url": "https://github.com/SuriGill"
   },
-  "author": "Tony Spiro <tspiro@tonyspiro.com> (http://tonyspiro.com/)",
-  "license": "ISC",
+  "author": "Surinder Gill <gill.surinder@hotmail.com> (http://surindergill.com/)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonyspiro/grunt-html5-boilerplate/issues"
+    "url": "https://github.com/SuriGill/DeltaHacks/issues"
   },
-  "homepage": "https://github.com/tonyspiro/grunt-html5-boilerplate"
+  "homepage": "https://github.com/SuriGill/DeltaHacks"
 }
