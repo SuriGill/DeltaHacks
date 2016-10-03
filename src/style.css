@@ -94,6 +94,7 @@
 -----------------------------------------------------------------*/
 html {
 	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%) !important;
+	height: 100%;
 }
 
 #stars {
@@ -105,7 +106,7 @@ html {
 }
 #stars:after {
   content: " ";
-  position: absolute;
+  position: static;
   top: 2000px;
   width: 1px;
   height: 1px;
@@ -122,7 +123,7 @@ html {
 }
 #stars2:after {
   content: " ";
-  position: absolute;
+  position: static;
   top: 2000px;
   width: 2px;
   height: 2px;
@@ -139,7 +140,7 @@ html {
 }
 #stars3:after {
   content: " ";
-  position: absolute;
+  position: static;
   top: 2000px;
   width: 3px;
   height: 3px;
